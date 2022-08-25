@@ -9,7 +9,9 @@ realizar uma request HTTP (xhr) para o servidor dos correios e preencher os camp
 
 #### URL de busca CEP
 https://viacep.com.br/ws/01001000/json/
+
 https://viacep.com.br/ws/12225100/json/
+
 https://viacep.com.br/ws/00000000/json/
 ## Critérios de aceite
 - Deve validar o input de CEP para digitar somente números e exatamente 8 números (ex: 12225100)
@@ -36,3 +38,4 @@ Olhe o exemplo na w3c
 https://www.w3schools.com/xml/xml_http.asp
 
 
+Pesquise na internet e peça ajuda dos amigos!
